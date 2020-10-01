@@ -4,7 +4,7 @@ I recently completed a master's degree in Mechanical Engineering at the Universi
 
 In my free time I like reading legal thrillers, listening to rock music, snowboarding, and watching the Leafs/Raps. I also like to think I have a decent sense of humour and love a good adventure in the great Canadian outdoors.
 
-At this point there's really not much to my github as I just recently set it up to host my personal website. I had a ton of fun tackling that task though, and hope to build it up some more over the coming years with new fun/interesting side projects.
+I really just set up this github account to host my personal website, but I had a ton of fun tackling that task and hope to build on it by adding some fun/interesting side projects over the coming years.
 
 <!--
 **J-Morrison/J-Morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
