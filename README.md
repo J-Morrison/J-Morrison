@@ -1,10 +1,10 @@
 # Hey, I'm Jacob
 
-I recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory. While completing my degree I developed a keen interest in the intersection of control theory and machine learning, and how aspects of machine learning can be used and adapted to improve the performance of more traditional control algorithms. Looking ahead, I am excited about opportunities to pursue this interest and apply the knowledge I've gained to solve complex control problems in our everyday world.
+I recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory, where I developed a keen interest in the intersection of control theory and machine learning. Looking ahead, I am excited about opportunities to pursue this interest and apply the knowledge I've gained to solve complex control problems in our everyday world.
 
-Through my undergraduate degree in Engineering Physics at Queen's University I was able to develop a strong fundamental understanding of key concepts in math, physics, and computing. Upon graduating I was then able to apply this knowledge to a large, open-ended design problem while working as a research engineer out of the CEA Paris-Saclay in France. It was my time with the Queen's Space Engineering Team, however, that truly sparked my interest in controls, ultimately leading me to pursue a master's degree with a focus in Control Engineering.
+In my free time I like reading legal thrillers, listening to rock music, snowboarding, and watching the Leafs/Raps. I also like to think I have a decent sense of humour and love a good adventure in the great Canadian outdoors.
 
-Outside of my research I spend my time reading legal thrillers, listening to rock music, snowboarding, and watching the Leafs/Raps. I like to think I have a decent sense of humour and love a good adventure in the great Canadian outdoors. I am an avid learner who is always consuming new information, and am eager to connect with other motivated and passionate people. 
+At this point there's really not much to my github as I just recently set it up to host my personal website. I had a ton of fun tackling that task though, and hope to build it up some more over the coming years with new fun/interesting side projects.
 
 <!--
 **J-Morrison/J-Morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
