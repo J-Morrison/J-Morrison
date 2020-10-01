@@ -1,6 +1,6 @@
-### Hey👋
+# Hey, I'm Jacob
 
-I'm Jacob and I recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory. While completing my degree I developed a keen interest in the intersection of control theory and machine learning, and how aspects of machine learning can be used and adapted to improve the performance of more traditional control algorithms. Looking ahead, I am excited about opportunities to pursue this interest and apply the knowledge I've gained to solve complex control problems in our everyday world.
+I recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory. While completing my degree I developed a keen interest in the intersection of control theory and machine learning, and how aspects of machine learning can be used and adapted to improve the performance of more traditional control algorithms. Looking ahead, I am excited about opportunities to pursue this interest and apply the knowledge I've gained to solve complex control problems in our everyday world.
 
 Through my undergraduate degree in Engineering Physics at Queen's University I was able to develop a strong fundamental understanding of key concepts in math, physics, and computing. Upon graduating I was then able to apply this knowledge to a large, open-ended design problem while working as a research engineer out of the CEA Paris-Saclay in France. It was my time with the Queen's Space Engineering Team, however, that truly sparked my interest in controls, ultimately leading me to pursue a master's degree with a focus in Control Engineering.
 
